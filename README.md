@@ -4,9 +4,9 @@ The apt animation that you will want!
 #To run: <br>
 ##In computers w/ bash:<br>
 Open up the terminal and type:<br>
-`chmod +x count.sh` <br>
+`chmod +x apt-moo` <br>
 then <br>
-`./count.sh`<br>
+`./apt-moo`<br>
 to run the script.<br>
 <br>
 ##In Windows:<br>
